@@ -33,7 +33,16 @@
 </div>
 
 # 🚀 Quick Facts
-<!-- Your quick facts -->
+
+"In data science, 80% of the effort is spent on data preparation, while the remaining 20% is spent on complaining about data preparation."
+
+
+🔬 Current Role: Senior Data Scientist
+🎯 Expertise: Machine Learning, NLP, Deep Learning & GenAI
+💼 Experience: 10+ Years in Technology
+🌱 Evolution: Software Developer (3.5 years) ➜ Data Scientist (6.5 years)
+🎓 Core Strength: Statistics & ML Algorithms
+🚀 Passion: Building Intelligent Systems & Data Solutions
 
 # 💡 My Data Science Arsenal
 ```mermaid
