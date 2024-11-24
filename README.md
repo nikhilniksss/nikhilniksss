@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Nikhil ![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
 
-## Transforming data into insights | Data Scientist | AI Enthusiast
+## Transforming data into insights | Data Scientist | Associate Vice President
 
 #### With over a decade of professional experience, I've evolved from a software developer into a seasoned data scientist, passionate about turning complex data challenges into actionable insights.
 
@@ -55,11 +55,11 @@ timeline
 In data science, 80% of the effort is spent on data preparation, while the remaining 20% is spent on complaining about data preparation.
 
 
-🔬 Current Role: Senior Data Scientist <br>
+🔬 Current Role: Associate Vice President <br>
 🎯 Expertise: Machine Learning, NLP, Deep Learning & GenAI <br>
 💼 Experience: 10+ Years in Technology <br>
 🌱 Evolution: Software Developer (3.5 years) ➜ Data Scientist (6.5 years) <br>
-🎓 Core Strength: Statistics & ML Algorithms <br>
+🎓 Core Strength: Statistics, ML and NLP Algorithms <br>
 🚀 Passion: Building Intelligent Systems & Data Solutions <br>
 
 # 💡 My Data Science Arsenal
@@ -96,14 +96,14 @@ mindmap
 # 📊 Skills Meter
 
 Machine Learning    ⭐⭐⭐⭐⭐ █████████░ 95% <br/>
-Statistics         ⭐⭐⭐⭐⭐ █████████░ 95%<br/>
-Python             ⭐⭐⭐⭐⭐ ██████████ 100%<br/>
-NLP                ⭐⭐⭐⭐⭐ █████████░ 95%<br/>
-Deep Learning      ⭐⭐⭐⭐   ████████░░ 85%<br/>
-R Programming      ⭐⭐⭐⭐⭐ ██████████ 100%<br/>
-SQL                ⭐⭐⭐⭐   ████████░░ 85%<br/>
-Tableau           ⭐⭐⭐⭐   ████████░░ 85%<br/>
-Generative AI     ⭐⭐⭐⭐   ████████░░ 85%<br/>
-Xceptor           ⭐⭐⭐⭐   ████████░░ 85%<br/>
-Alteryx           ⭐⭐⭐     ██████░░░░ 70%<br/>
+Statistics         ⭐⭐⭐⭐⭐  █████████░ 95%<br/>
+Python             ⭐⭐⭐⭐⭐  ██████████ 95%<br/>
+NLP                ⭐⭐⭐⭐⭐  █████████░ 95%<br/>
+Deep Learning      ⭐⭐⭐⭐    ████████░░ 75%<br/>
+R Programming      ⭐⭐⭐⭐⭐  ██████████ 100%<br/>
+SQL                ⭐⭐⭐⭐    ████████░░ 85%<br/>
+Tableau           ⭐⭐⭐⭐    ████████░░ 70%<br/>
+Generative AI     ⭐⭐⭐⭐    ████████░░ 70%<br/>
+Xceptor           ⭐⭐⭐⭐    ████████░░ 85%<br/>
+Alteryx           ⭐⭐⭐      ██████░░░░ 70%<br/>
 
