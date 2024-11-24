@@ -93,12 +93,8 @@ mindmap
       Xceptor
       Alteryx
 ```
-# 🛠️ Tech Stack Evolution
-<div align="center">
-PhaseYearsFocus AreasCore TechnologiesCurrent6.5Data Science & AIML, NLP, Deep Learning, GenAITransition1.5Data AnalyticsStatistics, Python, RFoundation2Software DevelopmentProgramming, Databases
-</div>
-
 # 📊 Skills Meter
+
 Machine Learning    ⭐⭐⭐⭐⭐ █████████░ 95% <br/>
 Statistics         ⭐⭐⭐⭐⭐ █████████░ 95%<br/>
 Python             ⭐⭐⭐⭐⭐ ██████████ 100%<br/>
@@ -111,19 +107,3 @@ Generative AI     ⭐⭐⭐⭐   ████████░░ 85%<br/>
 Xceptor           ⭐⭐⭐⭐   ████████░░ 85%<br/>
 Alteryx           ⭐⭐⭐     ██████░░░░ 70%<br/>
 
-<!--
-**nikhilniksss/nikhilniksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![CustomBadge](https://img.shields.io/badge/YourText-ColorCode?style=for-the-badge&logo=LogoName&logoColor=white&labelColor=AnotherColor)
