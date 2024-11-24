@@ -25,7 +25,7 @@
 
 ```mermaid
 graph TD
-    A[Statistics] --> B[Probability] --> C[Machine Learning] --> D[Natural Language Processing] --> E[Deep Learning] --> [Generative AI]
+    A[Statistics] --> B[Probability] --> C[Machine Learning] --> D[Natural Language Processing] --> E[Deep Learning] --> F[Generative AI]
     ...
 ```
 
