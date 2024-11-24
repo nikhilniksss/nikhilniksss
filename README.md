@@ -6,21 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=800&lines=Transforming+Complex+Data+into+Actionable+Insights;Building+AI+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
-<div align="center">
-
-</div>
-
-Machine Learning    ⭐⭐⭐⭐⭐ █████████░ 95%
-Statistics         ⭐⭐⭐⭐⭐ █████████░ 95%
-Python             ⭐⭐⭐⭐⭐ ██████████ 100%
-NLP                ⭐⭐⭐⭐⭐ █████████░ 95%
-Deep Learning      ⭐⭐⭐⭐   ████████░░ 85%
-R Programming      ⭐⭐⭐⭐⭐ ██████████ 100%
-SQL                ⭐⭐⭐⭐   ████████░░ 85%
-Tableau           ⭐⭐⭐⭐   ████████░░ 85%
-Generative AI     ⭐⭐⭐⭐   ████████░░ 85%
-Xceptor           ⭐⭐⭐⭐   ████████░░ 85%
-Alteryx           ⭐⭐⭐     ██████░░░░ 70%
 
 <div align="center">
   
@@ -85,7 +70,7 @@ mindmap
 <!-- Your experience table -->
 
 # 📊 Skills Meter
-Machine Learning    ⭐⭐⭐⭐⭐ █████████░ 95%
+Machine Learning    ⭐⭐⭐⭐⭐ █████████░ 95% <br/>
 Statistics         ⭐⭐⭐⭐⭐ █████████░ 95%
 Python             ⭐⭐⭐⭐⭐ ██████████ 100%
 NLP                ⭐⭐⭐⭐⭐ █████████░ 95%
