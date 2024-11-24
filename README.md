@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Nikhil
+## 👋 Hi there! I'm Nikhil ![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
 
 ### Transforming data into insights | Data Scientist | AI Enthusiast
 
@@ -43,10 +43,6 @@ timeline
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
   ![Xceptor](https://img.shields.io/badge/Xceptor-20232A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEjSURBVCiRjdK/K4ZhHMfx1/0QyU+DQWExmE0Gk8mgbBaDwWQ0KYssZislg8H/YJNSFoNBKYvBYDBK8qO8huece3C6H9/7Ofd1Xfd9XOdJ0Yp97GILqwGgEcrMOwzjCHN4wD0+Q1/QaS9gF704wwA+ItTaVRb+jUC7uEIv7vCKV3xgDCU84hnjmEK1AXzEYhD38RPE07jEHu4wihnUAxIwl4AnsI5tnOMm0CUso4rxOLH0B2VGBStYxBJKGMQGxjCfzGYhCe3hKWBVHGMB26hgKkDteAhdClISyFUMRQv7IaAc0ClUkMU7WrJlvOEdTVH/aQRrCe8lrOEBW5jELUai9hf1oP4q9jEZ4G5cYwc9v2QIiL0lnEaXGtCMYvjhOKRfn8w0vrCxGp8AAAAASUVORK5CYII=&logoColor=white)
 </div>
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
 
 <div align="center">
   <!-- Your header section with typing animation -->
