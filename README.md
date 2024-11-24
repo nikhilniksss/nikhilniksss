@@ -31,6 +31,24 @@ graph TD
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
 
+<div align="center">
+  <!-- Your header section with typing animation -->
+</div>
+
+# 🚀 Quick Facts
+<!-- Your quick facts -->
+
+# 💡 My Data Science Arsenal
+<!-- Your mermaid diagram -->
+
+# 🛠️ Tech Stack Evolution
+<!-- Your experience table -->
+
+# 📊 Skills Meter
+<!-- Your skills section -->
+
+<!-- Rest of your sections -->
+
 <!--
 **nikhilniksss/nikhilniksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
