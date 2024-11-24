@@ -1,16 +1,6 @@
 ## Hi there 👋
 
 <div align="center">
-  class DataScientist:
-    def __init__(self):
-        self.name = "Your_Name"
-        self.role = "Senior Data Scientist"
-        self.experience = "10+ years"
-        self.language_spoken = ["Data", "Python", "R", "SQL"]
-        self.mission = "Transforming Complex Data into Actionable Intelligence"
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -34,9 +24,33 @@
 </div>
 
 ```mermaid
-graph TD
-    A[Statistics] --> B[Probability] --> C[Machine Learning] --> D[Natural Language Processing] --> E[Deep Learning] --> F[Generative AI]
-    ...
+mindmap
+  root((Data Science))
+    Analytics
+      Statistical Analysis
+      Probability Models
+      Data Visualization
+    Core ML
+      Supervised Learning
+      Unsupervised Learning
+      Model Optimization
+    Advanced AI
+      Deep Learning
+        Neural Networks
+        Computer Vision
+      NLP
+        Text Analytics
+        Language Models
+      Generative AI
+        LLMs
+        Transformers
+    Tools
+      Python
+      R
+      SQL
+      Tableau
+      Xceptor
+      Alteryx
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
