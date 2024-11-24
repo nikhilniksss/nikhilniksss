@@ -29,6 +29,8 @@ graph TD
     ...
 ```
 
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
+
 <!--
 **nikhilniksss/nikhilniksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
