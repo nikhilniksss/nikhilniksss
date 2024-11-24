@@ -6,6 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=800&lines=Transforming+Complex+Data+into+Actionable+Insights;Building+AI+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 <!--
 **nikhilniksss/nikhilniksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
