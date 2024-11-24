@@ -12,6 +12,13 @@ timeline
     2017 : Transitioned to Data Science
     2024 : Mastering GenAI & LLMs
 ```
+💡 What I Do
+
+🔬 Design and implement end-to-end machine learning solutions
+📊 Transform raw data into compelling visual stories
+🤖 Develop NLP and deep learning models
+🎯 Drive data-driven decision making
+🌟 Explore cutting-edge AI technologies
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
