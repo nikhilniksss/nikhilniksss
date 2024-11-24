@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Nikhil
 
-Transforming data into insights | Data Scientist | AI Enthusiast
+### Transforming data into insights | Data Scientist | AI Enthusiast
 
-With over a decade of professional experience, I've evolved from a software developer into a seasoned data scientist, passionate about turning complex data challenges into actionable insights.
+### With over a decade of professional experience, I've evolved from a software developer into a seasoned data scientist, passionate about turning complex data challenges into actionable insights.
 
 🚀 Professional Journey
 ```mermaid
@@ -14,11 +14,11 @@ timeline
 ```
 💡 What I Do
 
-🔬 Design and implement end-to-end machine learning solutions
-📊 Transform raw data into compelling visual stories
-🤖 Develop NLP and deep learning models
-🎯 Drive data-driven decision making
-🌟 Explore cutting-edge AI technologies
+🔬 Design and implement end-to-end machine learning solutions <br>
+📊 Transform raw data into compelling visual stories<br>
+🤖 Develop NLP and deep learning models<br>
+🎯 Drive data-driven decision making<br>
+🌟 Explore cutting-edge AI technologies<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
