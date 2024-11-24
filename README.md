@@ -36,7 +36,8 @@
 <!-- Your quick facts -->
 
 # 💡 My Data Science Arsenal
-mermade'''
+mermaid
+```
 mindmap
   root((Data Science))
     Analytics
@@ -64,7 +65,7 @@ mindmap
       Tableau
       Xceptor
       Alteryx
-'''
+```
 # 🛠️ Tech Stack Evolution
 <!-- Your experience table -->
 
