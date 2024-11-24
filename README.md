@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+class DataScientist:
+    def __init__(self):
+        self.name = "Your_Name"
+        self.role = "Senior Data Scientist"
+        self.experience = "10+ years"
+        self.language_spoken = ["Data", "Python", "R", "SQL"]
+        self.mission = "Transforming Complex Data into Actionable Intelligence"
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
