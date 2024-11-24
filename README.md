@@ -8,7 +8,7 @@ With over a decade of professional experience, I've evolved from a software deve
 ```mermaid
 timeline
     title My Tech Evolution
-    2013 : Started as Software Developer
+    2014 : Started as Software Developer
     2017 : Transitioned to Data Science
     2024 : Mastering GenAI & LLMs
 ```
