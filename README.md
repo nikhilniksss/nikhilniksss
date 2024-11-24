@@ -4,6 +4,15 @@ Transforming data into insights | Data Scientist | AI Enthusiast
 
 With over a decade of professional experience, I've evolved from a software developer into a seasoned data scientist, passionate about turning complex data challenges into actionable insights.
 
+🚀 Professional Journey
+```mermaid
+timeline
+    title My Tech Evolution
+    2013 : Started as Software Developer
+    2017 : Transitioned to Data Science
+    2024 : Mastering GenAI & LLMs
+```
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
