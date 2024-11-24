@@ -67,7 +67,9 @@ mindmap
       Alteryx
 ```
 # 🛠️ Tech Stack Evolution
-<!-- Your experience table -->
+<div align="center">
+PhaseYearsFocus AreasCore TechnologiesCurrent6.5Data Science & AIML, NLP, Deep Learning, GenAITransition1.5Data AnalyticsStatistics, Python, RFoundation2Software DevelopmentProgramming, Databases
+</div>
 
 # 📊 Skills Meter
 Machine Learning    ⭐⭐⭐⭐⭐ █████████░ 95% <br/>
