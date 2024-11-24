@@ -36,8 +36,8 @@
 <!-- Your quick facts -->
 
 # 💡 My Data Science Arsenal
-mermaid
-```
+```mermaid
+
 mindmap
   root((Data Science))
     Analytics
