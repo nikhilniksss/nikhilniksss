@@ -25,7 +25,7 @@
 
 ```mermaid
 graph TD
-    A[Data Science Mastery] --> B[Machine Learning]
+    A[Statistics] --> B[Probability] --> C[Machine Learning] --> D[Natural Language Processing] --> E[Deep Learning] --> [Generative AI]
     ...
 ```
 
