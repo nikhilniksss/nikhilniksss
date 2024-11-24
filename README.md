@@ -4,7 +4,7 @@
 
 #### With over a decade of professional experience, I've evolved from a software developer into a seasoned data scientist, passionate about turning complex data challenges into actionable insights.
 
-🚀 ### Professional Journey
+### 🚀Professional Journey
 ```mermaid
 timeline
     title My Tech Evolution
