@@ -85,9 +85,17 @@ mindmap
 <!-- Your experience table -->
 
 # 📊 Skills Meter
-<!-- Your skills section -->
-
-<!-- Rest of your sections -->
+Machine Learning    ⭐⭐⭐⭐⭐ █████████░ 95%
+Statistics         ⭐⭐⭐⭐⭐ █████████░ 95%
+Python             ⭐⭐⭐⭐⭐ ██████████ 100%
+NLP                ⭐⭐⭐⭐⭐ █████████░ 95%
+Deep Learning      ⭐⭐⭐⭐   ████████░░ 85%
+R Programming      ⭐⭐⭐⭐⭐ ██████████ 100%
+SQL                ⭐⭐⭐⭐   ████████░░ 85%
+Tableau           ⭐⭐⭐⭐   ████████░░ 85%
+Generative AI     ⭐⭐⭐⭐   ████████░░ 85%
+Xceptor           ⭐⭐⭐⭐   ████████░░ 85%
+Alteryx           ⭐⭐⭐     ██████░░░░ 70%
 
 <!--
 **nikhilniksss/nikhilniksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
