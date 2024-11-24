@@ -7,6 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=800&lines=Transforming+Complex+Data+into+Actionable+Insights;Building+AI+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
 <div align="center">
+PhaseYearsFocus AreasCore TechnologiesCurrent6.5Data Science & AIML, NLP, Deep Learning, GenAITransition1.5Data AnalyticsStatistics, Python, RFoundation2Software DevelopmentProgramming, Databases
+</div>
+
+<div align="center">
   
   ### Core Skills
   ![Statistics](https://img.shields.io/badge/Statistics-388E3C?style=for-the-badge&logo=mathematics&logoColor=white)
