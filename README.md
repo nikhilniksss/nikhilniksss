@@ -59,7 +59,7 @@ In data science, 80% of the effort is spent on data preparation, while the remai
 🎯 Expertise: Machine Learning, NLP, Deep Learning & GenAI <br>
 💼 Experience: 10+ Years in Technology <br>
 🌱 Evolution: Software Developer (3.5 years) ➜ Data Scientist (6.5 years) <br>
-🎓 Core Strength: Statistics, ML and NLP Algorithms <br>
+🎓 Core Strength: Statistics, ML, Python, SQL and NLP Algorithms <br>
 🚀 Passion: Building Intelligent Systems & Data Solutions <br>
 
 # 💡 My Data Science Arsenal
