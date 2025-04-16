@@ -12,7 +12,7 @@ timeline
     2017 : Transitioned to Data Science
     2022 : Mastered Statistics, ML, DL and NLP
     2023 : Started with GenAI & LLMs
-    2024 : Mastering GenAI & LLMs
+    2024-2025 : Mastering GenAI & LLMs
 ```
 ### 💡 What I Do
 
