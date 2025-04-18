@@ -22,7 +22,7 @@ timeline
 🎯 Drive data-driven decision making<br>
 🌟 Explore cutting-edge AI technologies<br>
 
-<div align="left">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
