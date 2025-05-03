@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Nikhil ![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
 
-## Transforming data into insights | Data Scientist | Associate Vice President
+## Transforming data into insights | Data Scientist
 
 #### With over a decade of professional experience, I've evolved from a software developer into a seasoned data scientist, passionate about turning complex data challenges into actionable insights.
 
