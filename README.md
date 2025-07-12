@@ -30,11 +30,11 @@ timeline
 
 <div align="center">
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=nikhilniksss&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=nikhilniksss&theme=radical&hide_border=true&timestamp=20250712" alt="GitHub Streak" />
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&count_private=true&hide=stars&theme=radical&timestamp=20250712" alt="GitHub Stats" />
 
 ### 📈 Contribution Graph
 
