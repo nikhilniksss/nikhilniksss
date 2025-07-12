@@ -24,13 +24,9 @@ timeline
 
 ---
 
-### 🔧 Pinned Work
+![trophy](https://github-profile-trophy.vercel.app/?username=nikhilniksss&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-- 🔹 [**GenAI RAG Legal Chatbot**](https://github.com/nikhilniksss/legal-doc-rag-chatbot): Intelligent question answering from legal PDFs.
-- 🔹 [**ESG Sentiment Analysis App**](https://github.com/nikhilniksss/esg-sentiment): Detects negative ESG news using transformers.
-- 🔹 [**LLM Fine-Tuning on Financial Reports**](https://github.com/nikhilniksss/finetune-llm-financials): Instruction-tuned LLMs for finance docs.
-
-
+![CI](https://github.com/nikhilniksss/your-repo/actions/workflows/ci.yml/badge.svg)
 
 ### 📈 GitHub Contribution Insights
 
