@@ -26,8 +26,6 @@ timeline
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nikhilniksss&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![CI](https://github.com/nikhilniksss/your-repo/actions/workflows/ci.yml/badge.svg)
-
 ### 📈 GitHub Contribution Insights
 
 <div align="center">
