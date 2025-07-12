@@ -35,6 +35,7 @@ timeline
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&count_private=true&hide=stars&theme=radical&timestamp=20250712" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilniksss&theme=radical&timestamp=20250712" />
 
 ### 📈 Contribution Graph
 
