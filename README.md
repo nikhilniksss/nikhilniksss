@@ -36,8 +36,9 @@ timeline
 <!-- Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilniksss&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+### 📈 Contribution Graph
+
+![Nikhil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilniksss&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)
 
 </div>
 
