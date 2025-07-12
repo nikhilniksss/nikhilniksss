@@ -1,5 +1,4 @@
 ## 👋 Hi there! I'm Nikhil ![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=brightgreen)
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilniksss&color=blueviolet&style=flat-square)
 
 ## Transforming data into insights | Data Scientist
 
