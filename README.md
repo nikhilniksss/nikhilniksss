@@ -26,6 +26,10 @@ timeline
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
+![Commits This Week](https://img.shields.io/badge/Commits_This_Week-⬛?style=for-the-badge&logo=github&color=blue)
+![Commits This Month](https://img.shields.io/badge/Commits_This_Month-⬛?style=for-the-badge&logo=github&color=purple)
+![Total Commits](https://img.shields.io/badge/Total_Commits-⬛?style=for-the-badge&logo=github&color=green)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=800&lines=Transforming+Complex+Data+into+Actionable+Insights;Building+AI+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
 
