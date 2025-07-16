@@ -31,7 +31,8 @@ timeline
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=nikhilniksss&theme=radical&hide_border=true&timestamp=20250712" alt="GitHub Streak" />
+<!-- Updated GitHub Streak Stat -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilniksss&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=nikhilniksss&show_icons=true&count_private=true&hide=stars&theme=radical&timestamp=20250712" alt="GitHub Stats" />
