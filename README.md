@@ -68,15 +68,14 @@ timeline
   <!-- Your header section with typing animation -->
 </div>
 
-# 🚀 Quick Facts
+# 🚀 Fun fact about data science
 
-In data science, 80% of the effort is spent on data preparation, while the remaining 20% is spent on complaining about data preparation.
-
+In data science, 80% of the effort is spent on data preparation, while the remaining 20% is spent on complaining about data preparation :D
 
 🔬 Current Role: Associate Vice President <br>
 🎯 Expertise: Machine Learning, NLP, Deep Learning & GenAI <br>
 💼 Experience: 10+ Years in Technology <br>
-🌱 Evolution: Software Developer (3 years) ➜ Data Scientist (7 years) <br>
+🌱 Evolution: Software Developer (4.5 years) ➜ Data Scientist (5.5 years) <br>
 🎓 Core Strength: Statistics, ML, Python, SQL and NLP Algorithms <br>
 🚀 Passion: Building Intelligent Systems & Data Solutions <br>
 
@@ -110,5 +109,6 @@ mindmap
       Tableau
       Xceptor
       Alteryx
+      pega
 ```
 
