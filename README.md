@@ -13,7 +13,7 @@ timeline
     2022 : Mastered Statistics, ML, DL and NLP
     2023 : Started with GenAI & LLMs
     2024-2025 : Mastering GenAI & LLMs
-    2026 : Post Graduation in Agentic AI
+    2026 : Pursuing a post-graduate (PG) program in Agentic AI 
 ```
 ### 💡 What I Do
 
